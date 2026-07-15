@@ -1,0 +1,15 @@
+{
+  "name": "everything",
+  "description": "极速本地检索工具-便携版",
+  "homepage": "https://www.voidtools.com/zh-cn/",
+  "version": {
+    "1.4.1.1030": {
+      "architecture": {
+        "url": "https://www.voidtools.com/Everything-1.4.1.1030.x86.zip",
+        "bin": "Everything.exe",
+        "env_set":false,
+        "silent_install":false
+      }
+    }
+  }
+}

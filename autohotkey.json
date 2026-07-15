@@ -1,0 +1,27 @@
+{
+  "name": "autohotkey",
+  "description": "autohotkey环境",
+  "homepage": "https://www.autohotkey.com/",
+  "version": {
+
+    "1.1.37.02": {
+      "architecture": {
+        "url": "https://static.bm-box.cn/ahk/AutoHotkey_1.1.37.02.7z",
+        "bin": 
+          "AutoHotkeyU64.exe",
+        "env_set":false,
+        "silent_install":false
+      }
+    },
+    "2.0.19": {
+      "architecture": {
+        "url": "https://static.bm-box.cn/ahk/AutoHotkey_2.0.19.7z",
+        "bin": 
+          "AutoHotkey64.exe",
+        "env_set":false,
+        "silent_install":false
+
+      }
+    }
+  }
+}

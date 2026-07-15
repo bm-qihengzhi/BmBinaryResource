@@ -1,0 +1,17 @@
+{
+  "name": "ffmpeg",
+  "description": "音视频处理工具",
+  "homepage": "https://ffmpeg.org",
+  "version": {
+    "6.0": {
+      "architecture": {
+        "url": "https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2023-09-07-12-50/ffmpeg-n6.0-2-g91307c8c8b-win64-gpl-shared-6.0.zip",
+        "bin": 
+          "bin/ffmpeg.exe",
+        "env_set":false,
+        "silent_install":false
+      }
+    }
+  }
+}
+

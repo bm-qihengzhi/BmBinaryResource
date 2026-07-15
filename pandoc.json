@@ -1,0 +1,15 @@
+{
+  "name": "pandoc",
+  "description": "pandoc命令行",
+  "homepage": "https://pandoc.org",
+  "version": {
+    "3.8.2.1": {
+      "architecture": {
+        "url": "https://github.com/jgm/pandoc/releases/download/3.8.2.1/pandoc-3.8.2.1-windows-x86_64.zip",
+        "bin": "pandoc.exe",
+        "env_set":false,
+        "silent_install":false
+      }
+    }
+  }
+}

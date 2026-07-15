@@ -1,0 +1,15 @@
+{
+  "name": "ScreenCapture",
+  "description": "命令行截图软件",
+  "homepage": "https://github.com/xland/ScreenCapture/",
+  "version": {
+    "2.33": {
+      "architecture": {
+        "url": "https://github.com/xland/ScreenCapture/releases/download/2.3.3/ScreenCapture.exe",
+        "bin": "ScreenCapture.exe",
+        "env_set":true,
+        "silent_install":false
+      }
+    }
+  }
+}

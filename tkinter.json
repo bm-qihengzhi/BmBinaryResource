@@ -1,0 +1,70 @@
+{
+    "name": "tkinter",
+    "description": "嵌入式环境tkinter依赖",
+    "homepage": "https://www.python.org/",
+    "version": {
+      "3.8.10": {
+        "architecture": {
+          "url": "https://github.com/bm-qihengzhi/tkinter/releases/download/tkinter/3.8.10.7z",
+          "bin": "",
+          "env_set":false,
+          "silent_install":false
+        }
+      },
+      "3.9.13": {
+        "architecture": {
+          "url": "https://github.com/bm-qihengzhi/tkinter/releases/download/tkinter/3.9.13.7z",
+          "bin": "",
+          "env_set":false,
+          "silent_install":false
+        }
+  
+      },
+      "3.10.11": {
+        "architecture": {
+          "url": "https://github.com/bm-qihengzhi/tkinter/releases/download/tkinter/3.10.11.7z",
+          "bin": "",
+          "env_set":false,
+          "silent_install":false
+  
+        }
+      },
+      "3.11.9": {
+        "architecture": {
+          "url": "https://github.com/bm-qihengzhi/tkinter/releases/download/tkinter/3.11.9.7z",
+          "bin": "",
+          "env_set":false,
+          "silent_install":false
+  
+        }
+      },
+      "3.12.9": {
+        "architecture": {
+          "url": "https://github.com/bm-qihengzhi/tkinter/releases/download/tkinter/3.12.9.7z",
+          "bin": "",
+          "env_set":false,
+          "silent_install":false
+  
+        }
+      },
+      "3.12.9": {
+        "architecture": {
+          "url": "https://github.com/bm-qihengzhi/tkinter/releases/download/tkinter/3.13.9.7z",
+          "bin": "",
+          "env_set":false,
+          "silent_install":false
+  
+        }
+      },
+      "3.14.0": {
+        "architecture": {
+          "url": "https://github.com/bm-qihengzhi/tkinter/releases/download/tkinter/3.14.0.7z",
+          "bin": "",
+          "env_set":false,
+          "silent_install":false
+  
+        }
+      }
+    }
+  }
+  

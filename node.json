@@ -1,0 +1,67 @@
+{
+    "name": "node.js",
+    "description": "node.js",
+    "homepage": "https://node.org.cn/",
+    "version": {
+      "v16.20.2": {
+        "architecture": {
+          "url": "https://mirrors.aliyun.com/nodejs-release/v16.20.2/node-v16.20.2-win-x64.7z",
+          "bin": "node.exe",
+          "env_set":false,
+          "silent_install":false
+        }
+      },
+      "v17.9.1": {
+        "architecture": {
+          "url": "https://mirrors.aliyun.com/nodejs-release/v17.9.1/node-v17.9.1-win-x64.7z",
+          "bin": "node.exe",
+          "env_set":false,
+          "silent_install":false
+        }
+      },
+      "v18.20.8": {
+        "architecture": {
+          "url": "https://mirrors.aliyun.com/nodejs-release/v18.20.8/node-v18.20.8-win-x64.7z",
+          "bin": "node.exe",
+          "env_set":false,
+          "silent_install":false
+        }
+      },
+      "v19.9.0": {
+        "architecture": {
+          "url": "https://mirrors.aliyun.com/nodejs-release/v19.9.0/node-v19.9.0-win-x64.7z",
+          "bin": "node.exe",
+          "env_set":false,
+          "silent_install":false
+        }
+      },
+      "v20.15.0": {
+        "architecture": {
+          "url": "https://mirrors.aliyun.com/nodejs-release/v20.19.2/node-v20.19.2-win-x64.7z",
+          "bin": "node.exe",
+          "env_set":false,
+          "silent_install":false
+  
+        }
+      },
+      "v21.7.3": {
+        "architecture": {
+          "url": "https://mirrors.aliyun.com/nodejs-release/v21.7.3/node-v21.7.3-win-x64.7z",
+          "bin": "node.exe",
+          "env_set":false,
+          "silent_install":false
+  
+        }
+      },
+      "v22.16.0": {
+        "architecture": {
+          "url": "https://mirrors.aliyun.com/nodejs-release/v22.16.0/node-v22.16.0-win-x64.7z",
+          "bin": "node.exe",
+          "env_set":false,
+          "silent_install":false
+  
+        }
+      }
+    }
+  }
+  

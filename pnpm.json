@@ -1,0 +1,15 @@
+{
+    "name": "pnpm",
+    "description": "pnpm二进制文件",
+    "homepage": "https://www.pnpm.org",
+    "version": {
+      "7.33.0": {
+        "architecture": {
+          "url": "https://gitee.com/bmscriptsbox/pnpm/releases/download/v7.33.0/pnpm-win-x64.exe",
+          "bin": "pnpm-win-x64.exe",
+          "env_set":false,
+          "silent_install":false
+        }
+      }
+    }
+  }

@@ -1,0 +1,16 @@
+{
+  "name": "um",
+  "description": "um命令行工具",
+  "homepage": "https://www.uv.org",
+  "version": {
+    "0.2.0": {
+      "architecture": {
+	"url": "https://github.com/bm-panda/um/releases/download/um/um.7z",
+        "url_cn": "https://gitee.com/bmscriptsbox/um/releases/download/v0.2.0/um.7z",
+        "bin": "um.exe",
+        "env_set":true,
+        "silent_install":false
+      }
+    }
+  }
+}

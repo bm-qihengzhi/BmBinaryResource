@@ -1,0 +1,69 @@
+{
+  "name": "python",
+  "description": "Python编程语言",
+  "homepage": "https://www.python.org/",
+  "version": {
+    "3.8.10": {
+      "architecture": {
+        "url": "https://mirrors.aliyun.com/python-release/windows/python-3.8.10-embed-amd64.zip",
+        "bin": "python.exe",
+        "env_set":false,
+        "silent_install":false
+      }
+    },
+    "3.9.13": {
+      "architecture": {
+        "url": "https://mirrors.aliyun.com/python-release/windows/python-3.9.13-embed-amd64.zip",
+        "bin": "python.exe",
+        "env_set":false,
+        "silent_install":false
+      }
+
+    },
+    "3.10.11": {
+      "architecture": {
+        "url": "https://mirrors.aliyun.com/python-release/windows/python-3.10.11-embed-amd64.zip",
+        "bin": "python.exe",
+        "env_set":false,
+        "silent_install":false
+
+      }
+    },
+    "3.11.9": {
+      "architecture": {
+        "url": "https://mirrors.aliyun.com/python-release/windows/python-3.11.9-embed-amd64.zip",
+        "bin": "python.exe",
+        "env_set":false,
+        "silent_install":false
+
+      }
+    },
+    "3.12.9": {
+      "architecture": {
+        "url": "https://mirrors.aliyun.com/python-release/windows/python-3.12.9-embed-amd64.zip",
+        "bin": "python.exe",
+        "env_set":false,
+        "silent_install":false
+
+      }
+    },
+    "3.13.9": {
+      "architecture": {
+        "url": "https://mirrors.aliyun.com/python-release/windows/python-3.13.9-embed-amd64.zip",
+        "bin": "python.exe",
+        "env_set":false,
+        "silent_install":false
+
+      }
+    },
+    "3.14.0": {
+      "architecture": {
+        "url": "https://mirrors.aliyun.com/python-release/windows/python-3.14.0-embed-amd64.zip",
+        "bin": "python.exe",
+        "env_set":false,
+        "silent_install":false
+
+      }
+    }
+  }
+}

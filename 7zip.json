@@ -1,0 +1,17 @@
+{
+  "name": "7zip",
+  "description": "7zip命令行",
+  "homepage": "https://www.7-zip.org",
+  "version": {
+    "25.01": {
+      "architecture": {
+        "url": "https://github.com/ip7z/7zip/releases/download/25.00/7zr.exe",
+        "bin": 
+          "7zr.exe",
+        "env_set":false,
+        "silent_install":false
+        
+      }
+    }
+  }
+}
