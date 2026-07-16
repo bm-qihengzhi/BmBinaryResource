@@ -1,0 +1,15 @@
+{
+  "name": "webview-cli",
+  "description": "webview-cli命令行工具",
+  "homepage": "https://github.com/just-be-dev/webview-cli",
+  "version": {
+    "0.2.0": {
+      "architecture": {
+        "url": "https://github.com/just-be-dev/webview-cli/releases/download/v0.2.0/webview-windows-x64.exe",
+        "bin": "webview-windows-x64.exe",
+        "env_set":true,
+        "silent_install":false
+      }
+    }
+  }
+}

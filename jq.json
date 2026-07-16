@@ -1,0 +1,15 @@
+{
+  "name": "jq",
+  "description": "轻量且灵活的命令行 JSON 处理器",
+  "homepage": "https://jqlang.org/",
+  "version": {
+    "1.8.2": {
+      "architecture": {
+        "url": "https://github.com/jqlang/jq/releases/download/jq-1.8.2/jq-windows-amd64.exe",
+        "bin": "jq-windows-amd64.exe",
+        "env_set":true,
+        "silent_install":false
+      }
+    }
+  }
+}
