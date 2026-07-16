@@ -6,6 +6,7 @@
     "0.2.0": {
       "architecture": {
         "url": "https://github.com/just-be-dev/webview-cli/releases/download/v0.2.0/webview-windows-x64.exe",
+        "url_cn": "https://static.bm-box.cn/binaries%20/webview-windows-x64.exe",
         "bin": "webview-windows-x64.exe",
         "env_set":true,
         "silent_install":false
