@@ -1,6 +1,6 @@
 {
-  "name": "powershell",
-  "description": "PowerShell 是一种跨平台的任务自动化解决方案，由命令行 shell、脚本语言和配置管理框架组成",
+  "name": "pwsh",
+  "description": "PowerShell v7",
   "homepage": "https://github.com/PowerShell/",
   "version": {
     "7.6.3": {
