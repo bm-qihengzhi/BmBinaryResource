@@ -1,0 +1,16 @@
+{
+  "name": "powershell",
+  "description": "PowerShell 是一种跨平台的任务自动化解决方案，由命令行 shell、脚本语言和配置管理框架组成",
+  "homepage": "https://github.com/PowerShell/",
+  "version": {
+    "7.6.3": {
+      "architecture": {
+        "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.6.3/PowerShell-7.6.3-win-x64.zip",
+        "url_cn": "https://mirrors.sdu.edu.cn/github-release/PowerShell_PowerShell/v7.6.3/PowerShell-7.6.3-win-x64.zip",
+        "bin": "pwsh.exe",
+        "env_set":true,
+        "silent_install":false
+      }
+    }
+  }
+}
