@@ -1,0 +1,16 @@
+{
+  "name": "nircmd",
+  "description": "NirCmd是一个小型命令行工具",
+  "homepage": "https://www.nirsoft.net/utils/nircmd.html",
+  "version": {
+    "0.2.0": {
+      "architecture": {
+	      "url": "https://www.nirsoft.net/utils/nircmd.zip",
+        "url_cn": "https://static.bm-box.cn/binaries%20/NirCmd.exe",
+        "bin": "nircmd.exe",
+        "env_set":true,
+        "silent_install":false
+      }
+    }
+  }
+}
