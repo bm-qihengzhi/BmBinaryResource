@@ -7,7 +7,7 @@
       "architecture": {
         "url": "https://github.com/astral-sh/uv/releases/download/0.12.0/uv-x86_64-pc-windows-msvc.zip",
         "url_cn": "https://www.modelscope.cn/datasets/a89913131/BmBinaryResource/resolve/master/uv-x86_64-pc-windows-msvc.zip",
-        "bin": "[uv.exe]",
+        "bin": ["uv.exe"],
         "env_set":false,
         "silent_install":false
       }
