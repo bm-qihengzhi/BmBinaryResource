@@ -1,5 +1,5 @@
 {
-  "name": "imagemagick",
+  "name": "ImageMagick",
   "description": "imagemagick命令行工具",
   "homepage": "https://imagemagick.org/",
   "version": {
