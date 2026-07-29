@@ -5,7 +5,7 @@
   "version": {
     "0.2.0": {
       "architecture": {
-        "url_cn": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-29/ImageMagick-7.1.2-29-portable-Q16-HDRI-x64.7z",
+        "url_cn": "https://www.modelscope.cn/datasets/a89913131/BmBinaryResource/resolve/master/ImageMagick-7.1.2-29-portable-Q16-HDRI-x64.7z",
         "url": "https://github.com/ImageMagick/ImageMagick/releases/download/7.1.2-29/ImageMagick-7.1.2-29-portable-Q16-HDRI-x64.7z",
         "bin": ["magick.exe","compare.exe","composite.exe","conjure.exe","identify.exe","mogrify.exe","montage.exe","stream.exe"],
         "env_set":true,
