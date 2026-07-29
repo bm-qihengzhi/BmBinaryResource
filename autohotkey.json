@@ -8,7 +8,7 @@
       "architecture": {
         "url": "https://static.bm-box.cn/ahk/AutoHotkey_1.1.37.02.7z",
         "bin": 
-          "AutoHotkeyU64.exe",
+          ["AutoHotkeyU64.exe"],
         "env_set":false,
         "silent_install":false
       }
@@ -17,7 +17,7 @@
       "architecture": {
         "url": "https://static.bm-box.cn/ahk/AutoHotkey_2.0.19.7z",
         "bin": 
-          "AutoHotkey64.exe",
+          ["AutoHotkey64.exe"],
         "env_set":false,
         "silent_install":false
 

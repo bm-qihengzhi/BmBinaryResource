@@ -5,8 +5,9 @@
   "version": {
     "2.33": {
       "architecture": {
-        "url": "https://github.com/xland/ScreenCapture/releases/download/2.3.3/ScreenCapture.exe",
-        "bin": "ScreenCapture.exe",
+        "url_cn": "https://github.com/xland/ScreenCapture/releases/download/2.3.3/ScreenCapture.exe",
+        "url":"https://www.modelscope.cn/datasets/a89913131/BmBinaryResource/resolve/master/ScreenCapture.exe",
+        "bin": ["ScreenCapture.exe"],
         "env_set":true,
         "silent_install":false
       }

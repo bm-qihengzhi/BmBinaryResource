@@ -6,7 +6,8 @@
     "1.8.2": {
       "architecture": {
         "url": "https://github.com/jqlang/jq/releases/download/jq-1.8.2/jq-windows-amd64.exe",
-        "bin": "jq-windows-amd64.exe",
+        "url_cn":"https://www.modelscope.cn/datasets/a89913131/BmBinaryResource/resolve/master/jq-windows-amd64.exe",
+        "bin": ["jq-windows-amd64.exe"],
         "env_set":true,
         "silent_install":false
       }

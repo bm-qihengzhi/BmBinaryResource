@@ -6,8 +6,8 @@
     "1.4.1.1030": {
       "architecture": {
         "url": "https://www.voidtools.com/Everything-1.4.1.1030.x86.zip",
-        "bin": "Everything.exe",
-        "env_set":false,
+        "bin": ["Everything.exe"],
+        "env_set":true,
         "silent_install":false
       }
     }

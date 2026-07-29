@@ -5,9 +5,10 @@
   "version": {
     "3.8.2.1": {
       "architecture": {
-        "url": "https://github.com/jgm/pandoc/releases/download/3.8.2.1/pandoc-3.8.2.1-windows-x86_64.zip",
-        "bin": "pandoc.exe",
-        "env_set":false,
+        "url": "https://github.com/jgm/pandoc/releases/download/3.10.1/pandoc-3.10.1-windows-x86_64.zip",
+        "url_cn":"https://www.modelscope.cn/datasets/a89913131/BmBinaryResource/resolve/master/pandoc-3.10.1-windows-x86_64.zip",
+        "bin": ["pandoc.exe"],
+        "env_set":true,
         "silent_install":false
       }
     }

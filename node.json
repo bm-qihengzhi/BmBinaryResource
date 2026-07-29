@@ -5,40 +5,45 @@
     "version": {
       "v16.20.2": {
         "architecture": {
-          "url": "https://mirrors.aliyun.com/nodejs-release/v16.20.2/node-v16.20.2-win-x64.7z",
-          "bin": "node.exe",
+          "url_cn": "https://mirrors.aliyun.com/nodejs-release/v16.20.2/node-v16.20.2-win-x64.7z",
+          "url":"https://nodejs.org/download/release/v16.20.2/node-v16.20.2-win-x64.7z",
+          "bin": ["node.exe"],
           "env_set":false,
           "silent_install":false
         }
       },
       "v17.9.1": {
         "architecture": {
-          "url": "https://mirrors.aliyun.com/nodejs-release/v17.9.1/node-v17.9.1-win-x64.7z",
-          "bin": "node.exe",
+          "url_cn": "https://mirrors.aliyun.com/nodejs-release/v17.9.1/node-v17.9.1-win-x64.7z",
+          "url":"https://nodejs.org/download/release/latest-v17.x/node-v17.9.1-win-x64.7z",
+          "bin": ["node.exe"],
           "env_set":false,
           "silent_install":false
         }
       },
       "v18.20.8": {
         "architecture": {
-          "url": "https://mirrors.aliyun.com/nodejs-release/v18.20.8/node-v18.20.8-win-x64.7z",
-          "bin": "node.exe",
+          "url_cn": "https://mirrors.aliyun.com/nodejs-release/v18.20.8/node-v18.20.8-win-x64.7z",
+          "url":"https://nodejs.org/download/release/latest-hydrogen/node-v18.20.8-win-x64.7z",
+          "bin": ["node.exe"],
           "env_set":false,
           "silent_install":false
         }
       },
       "v19.9.0": {
         "architecture": {
-          "url": "https://mirrors.aliyun.com/nodejs-release/v19.9.0/node-v19.9.0-win-x64.7z",
-          "bin": "node.exe",
+          "url_cn": "https://mirrors.aliyun.com/nodejs-release/v19.9.0/node-v19.9.0-win-x64.7z",
+          "url":"https://nodejs.org/download/release/latest-v19.x/node-v19.9.0-win-x64.7z",
+          "bin": ["node.exe"],
           "env_set":false,
           "silent_install":false
         }
       },
-      "v20.15.0": {
+      "v20.20.2": {
         "architecture": {
-          "url": "https://mirrors.aliyun.com/nodejs-release/v20.19.2/node-v20.19.2-win-x64.7z",
-          "bin": "node.exe",
+          "url_cn": "https://mirrors.aliyun.com/nodejs-release/v20.20.2/node-v20.20.2-win-x86.7z",
+          "url":"https://nodejs.org/download/release/latest-v20.x/node-v20.20.2-win-x64.7z",
+          "bin": ["node.exe"],
           "env_set":false,
           "silent_install":false
   
@@ -46,22 +51,60 @@
       },
       "v21.7.3": {
         "architecture": {
-          "url": "https://mirrors.aliyun.com/nodejs-release/v21.7.3/node-v21.7.3-win-x64.7z",
-          "bin": "node.exe",
+          "url_cn": "https://mirrors.aliyun.com/nodejs-release/v21.7.3/node-v21.7.3-win-x64.7z",
+          "url":"https://nodejs.org/download/release/latest-v21.x/node-v21.7.3-win-x64.7z",
+          "bin": ["node.exe"],
           "env_set":false,
           "silent_install":false
   
         }
       },
-      "v22.16.0": {
+      "v22.23.1": {
         "architecture": {
-          "url": "https://mirrors.aliyun.com/nodejs-release/v22.16.0/node-v22.16.0-win-x64.7z",
-          "bin": "node.exe",
+          "url_cn": "https://mirrors.aliyun.com/nodejs-release/v22.23.1/node-v22.23.1-win-x64.7z",
+          "url":"https://nodejs.org/download/release/latest-v22.x/node-v22.23.1-win-x64.7z",
+          "bin": ["node.exe"],
           "env_set":false,
           "silent_install":false
   
         }
-      }
+      },
+      "v23.9.0": {
+        "architecture": {
+          "url_cn": "https://mirrors.aliyun.com/nodejs-release/v23.9.0/node-v23.9.0-win-x64.7z",
+          "url":"https://nodejs.org/download/release/v23.9.0/node-v23.9.0-win-x64.7z",
+          "bin": ["node.exe"],
+          "env_set":false,
+          "silent_install":false
+        }
+      },
+      "v24.9.0": {
+        "architecture": {
+          "url_cn": "https://mirrors.aliyun.com/nodejs-release/v24.9.0/node-v24.9.0-win-x64.7z",
+          "url":"https://nodejs.org/download/release/v24.9.0/node-v24.9.0-win-x64.7z",
+          "bin": ["node.exe"],
+          "env_set":false,
+          "silent_install":false
+        }
+      },
+      "v25.9.0": {
+        "architecture": {
+          "url_cn": "https://mirrors.aliyun.com/nodejs-release/v25.9.0/node-v25.9.0-win-x64.7z",
+          "url":"https://nodejs.org/download/release/latest-v25.x/node-v25.9.0-win-x64.7z",
+          "bin": ["node.exe"],
+          "env_set":false,
+          "silent_install":false
+        }
+      },
+      "v26.5.0": {
+        "architecture": {
+          "url_cn": "https://mirrors.aliyun.com/nodejs-release/v26.5.0/node-v26.5.0-win-x64.7z",
+          "url":"https://nodejs.org/download/release/latest/node-v26.5.0-win-x64.7z",
+          "bin": ["node.exe"],
+          "env_set":false,
+          "silent_install":false
+        }
+      },
     }
   }
   

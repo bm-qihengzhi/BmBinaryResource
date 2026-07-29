@@ -5,8 +5,9 @@
     "version": {
       "7.33.0": {
         "architecture": {
-          "url": "https://gitee.com/bmscriptsbox/pnpm/releases/download/v7.33.0/pnpm-win-x64.exe",
-          "bin": "pnpm-win-x64.exe",
+          "url": "https://github.com/pnpm/pnpm/releases/download/v11.17.0/pnpm-win32-x64.zip",
+          "url_cn":"https://www.modelscope.cn/datasets/a89913131/BmBinaryResource/resolve/master/pnpm-win32-x64.zip",
+          "bin": ["pnpm.exe"],
           "env_set":false,
           "silent_install":false
         }

@@ -6,9 +6,8 @@
     "25.01": {
       "architecture": {
         "url": "https://github.com/ip7z/7zip/releases/download/25.00/7zr.exe",
-        "bin": 
-          "7zr.exe",
-        "env_set":false,
+        "bin": ["7zr.exe"],
+        "env_set":true,
         "silent_install":false
         
       }

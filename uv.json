@@ -3,11 +3,11 @@
   "description": "uv命令行",
   "homepage": "https://www.uv.org",
   "version": {
-    "0.9.16": {
+    "0.12.0": {
       "architecture": {
-        "url": "https://releases.astral.sh/github/uv/releases/download/0.11.16/uv-x86_64-pc-windows-msvc.zip",
-        "url_cn": "https://gitee.com/bmscriptsbox/uv_exe/releases/download/0.11.16/uv-x86_64-pc-windows-msvc.7z",
-        "bin": "uv.exe",
+        "url": "https://github.com/astral-sh/uv/releases/download/0.12.0/uv-x86_64-pc-windows-msvc.zip",
+        "url_cn": "https://www.modelscope.cn/datasets/a89913131/BmBinaryResource/resolve/master/uv-x86_64-pc-windows-msvc.zip",
+        "bin": "[uv.exe]",
         "env_set":false,
         "silent_install":false
       }
