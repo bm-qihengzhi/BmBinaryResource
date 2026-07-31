@@ -6,7 +6,7 @@
     "7.6.3": {
       "architecture": {
         "url": "https://github.com/PowerShell/PowerShell/releases/download/v7.6.3/PowerShell-7.6.3-win-x64.zip",
-        "url_cn": "https://mirrors.sdu.edu.cn/github-release/PowerShell_PowerShell/v7.6.3/PowerShell-7.6.3-win-x64.zip",
+        "url_cn": "https://www.modelscope.cn/datasets/a89913131/BmBinaryResource/resolve/master/PowerShell-7.6.3-win-x64.zip",
         "bin": ["pwsh.exe"],
         "env_set":true,
         "silent_install":false
