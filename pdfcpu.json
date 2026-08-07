@@ -1,0 +1,15 @@
+{
+  "name": "pdfcpu",
+  "description": "PDF处理命令行工具",
+  "homepage": "https://github.com/pdfcpu/pdfcpu/releases",
+  "version": {
+    "0.14.0": {
+      "architecture": {
+        "url": "https://github.com/pdfcpu/pdfcpu/releases/download/v0.14.0/pdfcpu_0.14.0_Windows_x86_64.zip",
+        "bin": ["pdfcpu.exe"],
+        "env_set":true,
+        "silent_install":false
+      }
+    }
+  }
+}
