@@ -1,0 +1,15 @@
+{
+  "name": "ColorPicker",
+  "description": "ColorPicker-单文件取色软件",
+  "homepage": "https://github.com/zhongyang219/ColorPicker/releases",
+  "version": {
+    "0.2.0": {
+      "architecture": {
+        "url": "https://github.com/zhongyang219/ColorPicker/releases/download/V1.32/ColorPicker_V1.32_x64.zip",
+        "bin": ["ColorPicker.exe"],
+        "env_set":true,
+        "silent_install":false
+      }
+    }
+  }
+}
