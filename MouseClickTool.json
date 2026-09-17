@@ -1,0 +1,15 @@
+{
+  "name": "MouseClickTool",
+  "description": "轻量化鼠标连点器",
+  "homepage": "https://github.com/lalakii/MouseClickTool",
+  "version": {
+    "3.3.0": {
+      "architecture": {
+	"url": "https://github.com/lalakii/MouseClickTool/releases/download/3.3.0.0/MouseClickTool.exe",
+        "bin": ["um.exe"],
+        "env_set":true,
+        "silent_install":false
+      }
+    }
+  }
+}
