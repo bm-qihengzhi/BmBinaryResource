@@ -1,0 +1,16 @@
+{
+  "name": "ditto",
+  "description": "ditto便携版",
+  "homepage": "https://github.com/sabrogden/Ditto/releases",
+  "version": {
+    "25.01": {
+      "architecture": {
+        "url": "https://github.com/sabrogden/Ditto/releases/download/3.25.113.0/DittoPortable_3_25_113_0.zip",
+        "bin": ["ditto.exe"],
+        "env_set":true,
+        "silent_install":false
+        
+      }
+    }
+  }
+}
