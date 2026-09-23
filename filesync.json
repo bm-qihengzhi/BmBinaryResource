@@ -1,0 +1,16 @@
+{
+  "name": "filesync",
+  "description": "开源文件同步命令行工具",
+  "homepage": "https://github.com/xuzhuoxi/FileSync",
+  "version": {
+    "1.37.0": {
+      "architecture": {
+        "url": "https://github.com/xuzhuoxi/FileSync/releases/download/v1.1.0/FileSync_v1.1.0_windows_amd64.zip",
+        "bin": ["FileSync.exe"],
+        "env_set":true,
+        "silent_install":false
+        
+      }
+    }
+  }
+}
