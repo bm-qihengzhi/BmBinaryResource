@@ -1,0 +1,16 @@
+{
+  "name": "wx_channels_download",
+  "description": "知名开源视频号下载工具",
+  "homepage": "https://github.com/ltaoo/wx_channels_download/releases",
+  "version": {
+    "1.37.0": {
+      "architecture": {
+        "url": "https://github.com/ltaoo/wx_channels_download/releases/download/v260907/wx_video_download_v260907_windows_x86_64.zip",
+        "bin": ["wx_video_download.exe"],
+        "env_set":true,
+        "silent_install":false
+        
+      }
+    }
+  }
+}
