@@ -1,0 +1,16 @@
+{
+  "name": "geek",
+  "description": "windows卸载工具便携版",
+  "homepage": "https://geekuninstaller.com/",
+  "version": {
+    "1.5.5.185": {
+      "architecture": {
+        "url": "https://geekuninstaller.com/geek.7z",
+        "bin": ["geek.exe"],
+        "env_set":true,
+        "silent_install":false
+        
+      }
+    }
+  }
+}
