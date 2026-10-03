@@ -1,0 +1,15 @@
+{
+  "name": "localsend",
+  "description": "知名的开源文件分享工具",
+  "homepage": "https://localsend.org/",
+  "version": {
+    "1.18.2": {
+      "architecture": {
+        "url": "https://d.localsend.org/LocalSend-1.18.2-windows-x86-64.zip",
+        "bin": ["localsend_app.exe"],
+        "env_set":true,
+        "silent_install":false
+      }
+    }
+  }
+}
