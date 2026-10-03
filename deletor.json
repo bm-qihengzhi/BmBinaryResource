@@ -1,0 +1,16 @@
+{
+  "name": "deletor",
+  "description": "实用的文件删除工具",
+  "homepage": "https://github.com/aria2/aria2/releases",
+  "version": {
+    "2.0.0": {
+      "architecture": {
+        "url": "https://github.com/pashkov256/deletor/releases/download/2.0.0/deletor-v2.0.0-windows-amd64.exe",
+        "bin": ["deletor-v2.0.0-windows-amd64.exe"],
+        "env_set":true,
+        "silent_install":false
+        
+      }
+    }
+  }
+}
