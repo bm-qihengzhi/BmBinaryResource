@@ -41,7 +41,7 @@
       },
       "v20.20.2": {
         "architecture": {
-          "url_cn": "https://mirrors.aliyun.com/nodejs-release/v20.20.2/node-v20.20.2-win-x86.7z",
+          "url_cn": "https://mirrors.aliyun.com/nodejs-release/v20.20.2/node-v20.20.2-win-x64.7z",
           "url":"https://nodejs.org/download/release/latest-v20.x/node-v20.20.2-win-x64.7z",
           "bin": ["node.exe"],
           "env_set":false,
